@@ -1,3 +1,6 @@
+/**
+ * [MaterialDesign.js]
+ */
 /*jslint
   browser,
   devel,

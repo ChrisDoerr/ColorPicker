@@ -1,3 +1,6 @@
+/**
+ * [ColorPicker.js]
+ */
 /*jslint
   browser,
   devel,
